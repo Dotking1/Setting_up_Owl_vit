@@ -1,0 +1,22 @@
+Detection Results for: Emergent/17.jpg
+Image size: 1920x1080
+Inference time: 0.0656 seconds
+Device: mps
+Detection threshold: 0.05
+
+Detection queries:
+- a photo of a person
+- a photo of a human
+- a photo of a man
+- a photo of a woman
+- a photo of a child
+- a photo of people
+- a photo of humans
+
+All raw detection scores:
+
+Objects detected (threshold = 0.05):
+No objects detected above threshold.
+
+Total objects detected: 0
+Output image saved as: output_images/output_17.jpg

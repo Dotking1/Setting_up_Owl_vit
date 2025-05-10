@@ -1,0 +1,35 @@
+Detection Results for: Emergent/20.jpg
+Image size: 5632x4224
+Inference time: 0.1855 seconds
+Device: mps
+Detection threshold: 0.05
+
+Detection queries:
+- a photo of a person
+- a photo of a human
+- a photo of a man
+- a photo of a woman
+- a photo of a child
+- a photo of people
+- a photo of humans
+
+All raw detection scores:
+- a photo of a person: 0.382217
+- a photo of a person: 0.162795
+- a photo of a person: 0.145752
+- a photo of a person: 0.171749
+- a photo of a person: 0.472551
+- a photo of people: 0.103955
+- a photo of a person: 0.414693
+
+Objects detected (threshold = 0.05):
+- person: confidence=0.382217, coordinates=[1472.6, 162.0, 1680.0, 511.0]
+- person: confidence=0.162795, coordinates=[1497.2, 360.6, 1670.8, 505.8]
+- person: confidence=0.145752, coordinates=[1510.9, 212.6, 1886.8, 786.2]
+- person: confidence=0.171749, coordinates=[1563.4, 514.1, 1853.6, 804.7]
+- person: confidence=0.472551, coordinates=[1557.6, 485.4, 1981.0, 860.3]
+- people: confidence=0.103955, coordinates=[1482.6, 155.5, 2317.2, 1110.2]
+- person: confidence=0.414693, coordinates=[2178.1, 830.0, 2410.0, 1172.6]
+
+Total objects detected: 7
+Output image saved as: output_images/output_20.jpg

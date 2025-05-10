@@ -1,0 +1,29 @@
+Detection Results for: Emergent/28.jpg
+Image size: 5632x4224
+Inference time: 0.1867 seconds
+Device: mps
+Detection threshold: 0.05
+
+Detection queries:
+- a photo of a person
+- a photo of a human
+- a photo of a man
+- a photo of a woman
+- a photo of a child
+- a photo of people
+- a photo of humans
+
+All raw detection scores:
+- a photo of a person: 0.138363
+- a photo of a person: 0.220616
+- a photo of a person: 0.110467
+- a photo of a person: 0.110681
+
+Objects detected (threshold = 0.05):
+- person: confidence=0.138363, coordinates=[585.8, 1349.7, 1142.5, 2020.2]
+- person: confidence=0.220616, coordinates=[580.9, 1388.7, 1284.2, 2638.2]
+- person: confidence=0.110467, coordinates=[794.6, 2058.9, 1264.1, 2627.0]
+- person: confidence=0.110681, coordinates=[25.7, -27.7, 4759.5, 4191.2]
+
+Total objects detected: 4
+Output image saved as: output_images/output_28.jpg

@@ -1,0 +1,23 @@
+Detection Results for: Emergent/people.jpg
+Image size: 3840x2160
+Inference time: 0.1028 seconds
+Device: mps
+Detection threshold: 0.05
+
+Detection queries:
+- a photo of a person
+- a photo of a human
+- a photo of a man
+- a photo of a woman
+- a photo of a child
+- a photo of people
+- a photo of humans
+
+All raw detection scores:
+- a photo of humans: 0.111890
+
+Objects detected (threshold = 0.05):
+- humans: confidence=0.111890, coordinates=[2140.6, 1541.8, 2432.5, 1736.4]
+
+Total objects detected: 1
+Output image saved as: output_images/output_people.jpg

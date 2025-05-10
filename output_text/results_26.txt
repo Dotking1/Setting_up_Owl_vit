@@ -1,0 +1,23 @@
+Detection Results for: Emergent/26.jpg
+Image size: 5632x4224
+Inference time: 0.1870 seconds
+Device: mps
+Detection threshold: 0.05
+
+Detection queries:
+- a photo of a person
+- a photo of a human
+- a photo of a man
+- a photo of a woman
+- a photo of a child
+- a photo of people
+- a photo of humans
+
+All raw detection scores:
+- a photo of a person: 0.109114
+
+Objects detected (threshold = 0.05):
+- person: confidence=0.109114, coordinates=[2128.8, 2318.6, 2606.7, 2727.1]
+
+Total objects detected: 1
+Output image saved as: output_images/output_26.jpg

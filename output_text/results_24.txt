@@ -1,0 +1,33 @@
+Detection Results for: Emergent/24.jpg
+Image size: 5632x4224
+Inference time: 0.1922 seconds
+Device: mps
+Detection threshold: 0.05
+
+Detection queries:
+- a photo of a person
+- a photo of a human
+- a photo of a man
+- a photo of a woman
+- a photo of a child
+- a photo of people
+- a photo of humans
+
+All raw detection scores:
+- a photo of a person: 0.461981
+- a photo of a person: 0.115914
+- a photo of a person: 0.120745
+- a photo of a person: 0.406171
+- a photo of a person: 0.471566
+- a photo of a person: 0.117446
+
+Objects detected (threshold = 0.05):
+- person: confidence=0.461981, coordinates=[4813.0, 1759.3, 5189.1, 2023.2]
+- person: confidence=0.115914, coordinates=[5028.9, 1765.7, 5180.5, 1943.1]
+- person: confidence=0.120745, coordinates=[931.9, 1887.3, 1980.8, 2407.8]
+- person: confidence=0.406171, coordinates=[843.9, 2021.1, 1157.7, 2417.4]
+- person: confidence=0.471566, coordinates=[3370.5, 2537.7, 3818.3, 2924.1]
+- person: confidence=0.117446, coordinates=[3479.9, 2550.7, 3822.9, 2900.1]
+
+Total objects detected: 6
+Output image saved as: output_images/output_24.jpg

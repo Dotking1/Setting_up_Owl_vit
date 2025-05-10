@@ -1,0 +1,81 @@
+OWL-ViT Object Detection Summary
+Date: 2025-05-10 15:41:14
+
+Emergent/8.jpg: 0 detections, processed in 0.29s
+Emergent/9.jpg: 0 detections, processed in 0.16s
+Emergent/14.jpg: 0 detections, processed in 0.16s
+Emergent/28.jpg: 4 detections, processed in 0.78s
+Emergent/29.jpg: 1 detections, processed in 0.76s
+Emergent/15.jpg: 0 detections, processed in 0.16s
+Emergent/17.jpg: 0 detections, processed in 0.16s
+Emergent/16.jpg: 0 detections, processed in 0.16s
+Emergent/12.jpg: 0 detections, processed in 0.16s
+Emergent/13.jpg: 0 detections, processed in 0.16s
+Emergent/11.jpg: 0 detections, processed in 0.16s
+Emergent/10.jpg: 0 detections, processed in 0.16s
+Emergent/21.jpg: 2 detections, processed in 0.77s
+Emergent/34.jpg: 0 detections, processed in 0.75s
+Emergent/20.jpg: 7 detections, processed in 0.76s
+Emergent/22.jpg: 3 detections, processed in 0.76s
+Emergent/23.jpg: 1 detections, processed in 0.75s
+Emergent/33.jpg: 0 detections, processed in 0.77s
+Emergent/27.jpg: 3 detections, processed in 0.76s
+Emergent/26.jpg: 1 detections, processed in 0.79s
+Emergent/32.jpg: 0 detections, processed in 0.77s
+Emergent/18.jpg: 5 detections, processed in 0.17s
+Emergent/24.jpg: 6 detections, processed in 0.78s
+Emergent/30.jpg: 1 detections, processed in 0.77s
+Emergent/31.jpg: 1 detections, processed in 0.77s
+Emergent/25.jpg: 0 detections, processed in 0.77s
+Emergent/19.jpg: 3 detections, processed in 0.77s
+Emergent/4.jpg: 0 detections, processed in 0.16s
+Emergent/5.jpg: 0 detections, processed in 0.15s
+Emergent/7.jpg: 0 detections, processed in 0.16s
+Emergent/6.jpg: 0 detections, processed in 0.16s
+Emergent/2.jpg: 0 detections, processed in 0.16s
+Emergent/3.jpg: 0 detections, processed in 0.15s
+Emergent/1.jpg: 0 detections, processed in 0.16s
+Emergent/people.jpg: 1 detections, processed in 0.34s
+
+Summary Statistics:
+Total images processed: 35 of 35
+Average processing time: 0.44 seconds per image
+Total objects detected: 39
+Average objects per image: 1.11
+
+Images by detection count:
+- Emergent/20.jpg: 7 detections
+- Emergent/24.jpg: 6 detections
+- Emergent/18.jpg: 5 detections
+- Emergent/28.jpg: 4 detections
+- Emergent/22.jpg: 3 detections
+- Emergent/27.jpg: 3 detections
+- Emergent/19.jpg: 3 detections
+- Emergent/21.jpg: 2 detections
+- Emergent/29.jpg: 1 detections
+- Emergent/23.jpg: 1 detections
+- Emergent/26.jpg: 1 detections
+- Emergent/30.jpg: 1 detections
+- Emergent/31.jpg: 1 detections
+- Emergent/people.jpg: 1 detections
+- Emergent/8.jpg: 0 detections
+- Emergent/9.jpg: 0 detections
+- Emergent/14.jpg: 0 detections
+- Emergent/15.jpg: 0 detections
+- Emergent/17.jpg: 0 detections
+- Emergent/16.jpg: 0 detections
+- Emergent/12.jpg: 0 detections
+- Emergent/13.jpg: 0 detections
+- Emergent/11.jpg: 0 detections
+- Emergent/10.jpg: 0 detections
+- Emergent/34.jpg: 0 detections
+- Emergent/33.jpg: 0 detections
+- Emergent/32.jpg: 0 detections
+- Emergent/25.jpg: 0 detections
+- Emergent/4.jpg: 0 detections
+- Emergent/5.jpg: 0 detections
+- Emergent/7.jpg: 0 detections
+- Emergent/6.jpg: 0 detections
+- Emergent/2.jpg: 0 detections
+- Emergent/3.jpg: 0 detections
+- Emergent/1.jpg: 0 detections

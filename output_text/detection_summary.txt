@@ -1,0 +1,44 @@
+OWL-ViT Object Detection Summary
+Date: 2025-05-10 15:57:49
+
+Emergent/8.jpg: Error parsing results
+Emergent/9.jpg: Error parsing results
+Emergent/14.jpg: Error parsing results
+Emergent/28.jpg: Error parsing results
+Emergent/29.jpg: Error parsing results
+Emergent/15.jpg: Error parsing results
+Emergent/17.jpg: Error parsing results
+Emergent/16.jpg: Error parsing results
+Emergent/12.jpg: Error parsing results
+Emergent/13.jpg: Error parsing results
+Emergent/11.jpg: Error parsing results
+Emergent/10.jpg: Error parsing results
+Emergent/21.jpg: Error parsing results
+Emergent/34.jpg: Error parsing results
+Emergent/20.jpg: Error parsing results
+Emergent/22.jpg: Error parsing results
+Emergent/23.jpg: Error parsing results
+Emergent/33.jpg: Error parsing results
+Emergent/27.jpg: Error parsing results
+Emergent/26.jpg: Error parsing results
+Emergent/32.jpg: Error parsing results
+Emergent/18.jpg: Error parsing results
+Emergent/24.jpg: Error parsing results
+Emergent/30.jpg: Error parsing results
+Emergent/31.jpg: Error parsing results
+Emergent/25.jpg: Error parsing results
+Emergent/19.jpg: Error parsing results
+Emergent/4.jpg: Error parsing results
+Emergent/5.jpg: Error parsing results
+Emergent/7.jpg: Error parsing results
+Emergent/6.jpg: Error parsing results
+Emergent/2.jpg: Error parsing results
+Emergent/3.jpg: Error parsing results
+Emergent/1.jpg: Error parsing results
+Emergent/people.jpg: Error parsing results
+
+Summary Statistics:
+Total images processed: 35 of 35
+Average processing time: 0.44 seconds per image
+Total objects detected: 0
+Average objects per image: 0.00

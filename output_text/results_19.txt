@@ -1,0 +1,27 @@
+Detection Results for: Emergent/19.jpg
+Image size: 5632x4224
+Inference time: 0.1867 seconds
+Device: mps
+Detection threshold: 0.05
+
+Detection queries:
+- a photo of a person
+- a photo of a human
+- a photo of a man
+- a photo of a woman
+- a photo of a child
+- a photo of people
+- a photo of humans
+
+All raw detection scores:
+- a photo of humans: 0.104894
+- a photo of humans: 0.104066
+- a photo of a person: 0.173204
+
+Objects detected (threshold = 0.05):
+- humans: confidence=0.104894, coordinates=[3414.9, 845.6, 3702.5, 1217.4]
+- humans: confidence=0.104066, coordinates=[3776.3, 821.9, 3974.1, 1094.3]
+- person: confidence=0.173204, coordinates=[3228.3, 1547.9, 3515.1, 1963.1]
+
+Total objects detected: 3
+Output image saved as: output_images/output_19.jpg
